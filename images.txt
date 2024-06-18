@@ -1,4 +1,3 @@
-kasmweb/qbittorrent
 xiaoyaliu/alist
-adguard/adguardhome
-v2ray/official
+
+
